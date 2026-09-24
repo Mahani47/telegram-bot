@@ -5,8 +5,8 @@ compatibility_date = "2025-09-01"
 workers_dev = true
 
 [[kv_namespaces]]
-binding = "6b675c785fd74b17aa41da70e44ac316"
-id = "ENTER-KV-ID"
+binding = "BOT-KV"
+id = "6b675c785fd74b17aa41da70e44ac316"
 
 [assets]
 directory = "./public"
